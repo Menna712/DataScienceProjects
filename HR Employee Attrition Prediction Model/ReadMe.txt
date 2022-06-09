@@ -21,3 +21,6 @@ The Machine Learning Models i applied:
 i have many other ideas to be done in Enhancement phase.
 as an example : SMOTE can be used on training data to generate synthetic minority samples with respect to noisy samples outside the borderlines
 thus, producing useless synthetic samples
+
+
+I hope Exercise could be Benificial to someone to get the grasp of Data Science Projects, also looking forward to enhancing it even more in the future.
