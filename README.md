@@ -13,3 +13,6 @@ you can find the following Projects:
 3)HR Employee Attrition Prediction Model:
   this is a project to predict if an employee in an organization is going to leave it or not.
   I here practice data prepreparation , feature selection,feature extraction, applying machine learning models.
+
+4)Student Score Prediction Model:
+  this is a project based on supervised machine learning model using linear regression for 2 variables(dependent and independent) to predict the score of a student based on how many hours they have been studying
